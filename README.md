@@ -1,2 +1,1 @@
-# static
-Repo which hosts all my public static files
+This is my repo which hosts all my public static files.
